@@ -124,7 +124,7 @@ On the other hand, there are control verbs that do require their arguments to po
 
 ()
 
-The reviewer suggests that the limits to which the standards of acceptability can be stretched to include such interpretations as metaphors and irony are hard to define. This only goes to show that control predicates are not to be probed by tests that rely on interpretations, since it is possible to imbue a sentence with a non-standard interpretation if necessary, and this is indeed possible with idiomatic readings.
+An anonymous reviewer suggests that the limits to which the standards of acceptability can be stretched to include such interpretations as metaphors and irony are hard to define. This only goes to show that control predicates are not to be probed by tests that rely on interpretations, since it is possible to imbue a sentence with a non-standard interpretation if necessary, and this is indeed possible with idiomatic readings.
 
 ## Idioms in control environments ##
 
@@ -164,7 +164,7 @@ Thus, the idiom diagnostic does not reliably identify the type of structure that
 
 To capture the data above showing full compatibility of some control verbs with idiom chunks we adopt Bruening's (2015) Constraint on Idiom Chunks, according to which an idiom chunk appearing in position 1 and anaphorically related to position 2 must not receive an interpretation either in position 1 or position 2 that is inconsistent with its interpretation in the idiom. 
 
-*[T]he only requirement on idioms is that a chunk of an idiom not receive an interpretation that is inconsistent with its idiomatic interpretation. Once this constraint is satisfied, idiom chunks can participate in pronominal anaphora and control in addition to movement.* (@Bruening:2015)
+> [T]he only requirement on idioms is that a chunk of an idiom not receive an interpretation that is inconsistent with its idiomatic interpretation. Once this constraint is satisfied, idiom chunks can participate in pronominal anaphora and control in addition to movement. [@Bruening:2015]
 
 The subjects of the idiomatic expressions in (--) are all nonsentient NPs *delo* \`business', *atmosfera* \`atmosphere' and *sle ̈zy ̄* \`tears'. They are nonsentient both in position 1 in the matrix clause, because the control predicates *resˇit'* \`decide', *zastavit'* \`force', *gotov* \`ready', and *xotet'* \`want' in a subset of contexts do not impose a sentience requirement on their nominal argument, and in the corresponding idioms. Position 2 is occupied by PRO in the infinitival clause. The constraint is not violated, and the idiomatic interpretations obtain. The same constraint rules out idiomatic interpretations with other control verbs such as *ubedit'* \`convince' (), which do impose a particular interpretation on their nominal argument: *ubedit'* \`convince' requires an NP (position 1) capable of being persuaded by arguments. Because that interpretation is inconsistent with the interpretation of the inanimate nonsentient delo \`business' in the idiom, the idiomatic reading is unavailable in ().
 
