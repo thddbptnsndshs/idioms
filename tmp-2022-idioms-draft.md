@@ -25,18 +25,18 @@ I neg ordered black cat.dat run.inf between them
 
 This paper shows that, just like in English, idiom chunks in control environments in Russian can give rise to idiomatic interpretations. If Burukina's (2020) logic were followed through, one would be forced to postulate an additional ECM-like structural source for accusative object-control verbs as well as subject control with the putative controller inside the infinitival clause. This effectively amounts to restating the original question of why idiomatic readings are compatible with some verbs under some circumstances without actually answering it. It would also require an additional mechanism of accusative case assignment and nominative case assignment.
 
-The paper is laid out as follows. (contents)
+The paper is laid out as follows. Section 1.2 reviews the idiom diagnostic; Section 1.3 contains our proposal. Section 2 is devoted to control and Russian control predicates in particular: Section 2.1 provides some background on the definition of control, raising and exceptional case marking (ECM); Section 2.2 discusses how control can be distinguished syntactically; semantic restrictions on arguments of control predicates are described in Section 2.3. Section 3 presents the data that is problematic for the idiom test logic, our analysis, featuring the Constraint on Idiom Chunks, is provided in Section 4 and Section 5 concludes the paper.
 
 ## Idioms in syntactic argumentation
 
 The assumption under which idioms have been used in syntactic argumentation is that all constituent parts of an idiom must be adjacent at some part of the derivation. Thus, movement of an idiom part is possible, because it can proceed out of an idiom that was base-generated as a whole. Control or pronominal anaphora, on the other hand, require a part of an idiom to be base-generated outside of it, which prevents the idiomatic reading.
 
-However, other researchers have taken issue with this assumption. [@Ruwet:1991] and [@Nunberg:1994] have shown that idioms actually can participate in control. Examples of pronominal anaphora and control with idioms in English abound on the Internet (--), as shown in [@Bruening:2015].
+However, other researchers have taken issue with this assumption. [@Ruwet:1991] and [@Nunberg:1994] have shown that idioms actually can participate in control. Examples of pronominal anaphora and control with idioms in English abound on the Internet (@br1--@br2), as shown in [@Bruening:2015].
 
-() I thought I would *miss the boat*, and miss **it** I did.
-() The *plug* is waiting to be *pulled* once all the 5600 stock is gone... [@Bruening:2015]
+(@br1) I thought I would *miss the boat*, and miss **it** I did.
+(@br2) The *plug* is waiting to be *pulled* once all the 5600 stock is gone... [@Bruening:2015]
 
-The examples above demonstrate that idiom parts can be anaphorically referred to () and bind the embedded PRO () with the idiomatic interpretation kept intact, contrary to what would be expected under the logic that the idiom test is built on. We now turn from the broad range of cases that are problematic for the idiom diagnostic to one specific case -- Russian control predicates.
+The examples above demonstrate that idiom parts can be anaphorically referred to (@br1) and bind the embedded PRO (@br2) with the idiomatic interpretation kept intact, contrary to what would be expected under the logic that the idiom test is built on. We now turn from the broad range of cases that are problematic for the idiom diagnostic to one specific case -- Russian control predicates.
 
 ## Aims of the paper
 
@@ -89,88 +89,105 @@ Idiomatic reading available: \`I did not order them to quarrel.' @Burukina:2020,
 
 ## Defining control ##
 
-The definition of control via the notion of theta-roles, which we have given in the previous section, makes the nature of control dependent on one's understanding of theta-roles. They can be conceptualized as handled by the semantic module, which would imply that Theta Criterion is replaced by a compositionality requirement (in the sense of formal semantics) and control becomes a semantically driven phenomenon [@Bruening:2013; @HeimKratzer:1998??? see Collins' ms. for this reference]. Theta-roles can also be argued to belong in the syntax: assymetries between arguments receiving different roles have been analysed using argument introducing heads [@Kratzer1996; @Pylkkanen:2008]. @Collins:2021 has suggested a Merge-based theory of theta-roles, which places them in the syntactic module as well. 
+The definition of control via the notion of theta-roles, which we have given in the previous section, makes the nature of control dependent on one's understanding of theta-roles. They can be conceptualized as handled by the semantic module, which would imply that Theta Criterion is replaced by a compositionality requirement (in the sense of formal semantics) and control becomes a semantically driven phenomenon [@Bruening:2013; @Kratzer:1998 ??? see Collins' ms. for this reference]. Theta-roles can also be argued to belong in the syntax: assymetries between arguments receiving different roles have been analysed using argument introducing heads [@Kratzer:1996; @Pylkkanen:2008]. @Collins:2021 has suggested a Merge-based theory of theta-roles, which places them in the syntactic module as well. 
 
 We are going to adopt the middle ground: arguments are projected in the syntax, whereas the wide variety of theta-roles, which can be highly specific, is handled by semantics.
 
-In order to show that proper control predicates allow for idiomatic readings when combined with idioms, we need a syntactic diagnostic that would distinguish control predicates from all the other types (resructuring, raising, ECM). Recall that the only property that sets control apart is that the predicate of the clause embedded under them has to have at least one argument (PRO), or else there would be nothing to control. Thus, the presence of an embedded PRO could be witnessed by the unacceptability of the matrix predicate with argumentless \`weather predicates' such as *smerkat'sja* \`get dark' etc. ()
+In order to show that proper control predicates allow for idiomatic readings when combined with idioms, we need a syntactic diagnostic that would distinguish control predicates from all the other types (resructuring, raising, ECM). Recall that the only property that sets control apart is that the predicate of the clause embedded under them has to have at least one argument (PRO), or else there would be nothing to control. Thus, the presence of an embedded PRO could be witnessed by the unacceptability of the matrix predicate with argumentless \`weather predicates' such as *smerkat'sja* \`get dark' etc. (@cweather)
 
-() * resˇilo/xotelo/gotovo/zastavilo smerkat'sja 
+(@cweather) * resˇilo/xotelo/gotovo/zastavilo smerkat'sja 
 decided/wanted/ready/forced get.dark.inf
-(\`It decided/wanted/is ready/forced to get dark.')
+Expected: \`It decided/wanted/is ready/forced to get dark.'
 
 The verb *smerkat'sja* \`get dark' has zero arguments, so it is not possible to build a control structure with it: the control predicates require an argument to control from the matrix clause.
 
-Another phenomenon that can be utilized to distinguish control from movement in Russian is negative concord (@Letuchiy:2020). The negative concord item (NCI) *nikto* \`nobody' can be the subject of a raising predicate but not control predicate, with the negation being in the embedded clause.
+Embedded clausal negation is acceptable under predicates in question (@embneg1--@embneg2), which is considered in the literature to be an argument against restructuring [@Wurmbrand:1998; @Cable:2004].
 
-() Nikomu možno [ *t* ne prixodit'].
+(@embneg1) Ja rešil [ne exat' k vam].
+I decided not come to you
+\`I have decided to not come to you.'
+(@embneg2) Ja gotov [ne exat' k vam].
+I ready not come to you
+\`I am ready to not come to you.'
+
+Another phenomenon that can be utilized to distinguish control from movement and restructuring in Russian is negative concord (@Letuchiy:2020). The negative concord item (NCI) *nikto* \`nobody' can be the subject of a raising predicate but not control predicate, with the negation being in the embedded clause.
+
+(@nci1) Nikomu možno [ *t* ne prixodit'].
 nobody.DAT may not come
 \`It is OK if nobody comes' may > NEG
-() \*Nikto xočet [PRO ne prixodit'].
+(@nci2) \*Nikto xočet [PRO ne prixodit'].
 nodoby.NOM wants not come
-Extected: \`Nobody wants to come'
+Expected: \`Nobody wants to come'
 
-*Nikto* \`nobody' is moved from the embedded clause, so at least part of the movement chain is C-commanded by negation, so the negative concord reading is accessible. However, with the control structure in () it is not possible to license negative concord, since the NCI is beyond the scope of negation. The inability of NCIs as control predicate's arguments to be licensed by the embedded negation is reproduced for other control predicates that have been discussed so far (--) and for mandative verbs with dative arguments as well ().
+*Nikto* \`nobody' in (@nci1) is moved from the embedded clause, so at least part of the movement chain is C-commanded by negation, so the negative concord reading is accessible. However, with the control structure in (@nci2) it is not possible to license negative concord, since the NCI is beyond the scope of negation. The inability of NCIs as control predicate's arguments to be licensed by the embedded negation is reproduced for other control predicates that have been discussed so far (@cnci1--@cnci2).
 
-()
-()
-()
+(@cnci1) \*Nikto xočet/ rešil/ gotov ne prixodit'.
+nobody wants decided ready not come
+Expected: \`Nobody wants/decided/is ready to come.'
+(@cnci2) \*My zastavljali nikogo ne prixodit'.
+we forced nobody not come
+Expected: \`We did not force anybody to come.'
 
-()
+There are other diagnostics such as substitution of the embedded clause with the demonstrative pronoun *eto* \`this' or the scope of indefinites that are used for Russian by @Letuchiy2020. For the purposes of the present paper, we restrict our argumentation to the  evidence above. 
 
-The substitution of the embedded clause with the demonstrative pronoun *eto* \`this' is used by @Letuchiy2020 as a movement diagnostic. Raising predicates allow for this substitution (), while control predicates do not ().
-
-()
-()
-
-**Should we add another control versus movement test before it becomes boring?**
-
-In light of the behaviour of control predicates described above, we are going to treat control as a syntactic phenomenon, whose defining feature is that they necessarily introduce a nominal argument. We have also shown *xotet'* \`want', *zastavit'* \`force', *resˇit'* and *gotov* \`ready' to be genuine control predicates in this sense.
+In light of this evidence, we are going to treat control as a syntactic phenomenon, whose defining feature is that they necessarily introduce a nominal argument. We have also shown *xotet'* \`want', *zastavit'* \`force', *resˇit'* and *gotov* \`ready' to be genuine control predicates in this sense.
 
 ## Semantic restrictions on arguments of control predicates ##
 
 Our proposal states that the constrains that rule out idiomatic readings in control environments are semantic, so the semantic restrictions on arguments of control predicates beg to be investigated.
 
-Some of the predicates discussed in the previous section impose no animacy/sentience requirements on their arguments, despite being genuine control predicates. As evidenced by the examples below, their arguments can be inanimate () or non-sentient (). 
+Some of the predicates discussed in the previous section impose no animacy/sentience requirements on their arguments, despite being genuine control predicates. As evidenced by the examples below, their arguments can be inanimate, non-sentient and non-agentive (@inan1--@inan2). 
 
-()
-()
+(@inan1) Dver' vdrug rešila otkryt'sja.
+door suddenly decided open
+\`The door opened all of a sudden.'
+(@inan2) Dver' ne xotela otkryvat'sja.
+door not wanted open
+\`The door wouldn't open.'
 
-On the other hand, there are control verbs that do require their arguments to possess some degree of sentience. For instance, *ubedit'* \`to convince' is marginally acceptable with non-sentient participants (). This sentence can be perceived as a joke or a metaphor, meaning that the bottle took some time or effort to open.
+While requiring the presence of a nominal argument, all of *resˇit'* \`decide', *zastavit'* \`force' and *gotov* \`ready' impose no animacy requirement on it, whereas *xotet'* \`want' allows inanimate arguments in downward-entailing environments (@inan2), just like velet' \`order' from Burukina (2020).
 
-()
+On the other hand, there are control verbs that do require their arguments to possess some degree of sentience. For instance, *ubedit'* \`to convince' is marginally acceptable with non-sentient participants (@inan3). This sentence can be perceived as a joke or a metaphor, meaning that the bottle took some time or effort to open.
+
+(@inan3) ?Nikita ubedil dver' otkryt'sja.
+N. convinced door open
+Expected: \`Nikita forced the door to open.'
 
 An anonymous reviewer suggests that the limits to which the standards of acceptability can be stretched to include such interpretations as metaphors and irony are hard to define. This only goes to show that control predicates are not to be probed by tests that rely on interpretations, since it is possible to imbue a sentence with a non-standard interpretation if necessary, and this is indeed possible with idiomatic readings.
 
-## Idioms in control environments ##
+# Idioms in control environments #
 
-The four predicates that we have shown to exhibit control and impose no animacy or sentience requirements on their arguments are compatible with idioms, with the idiomatic reading preserved (--).
+The four predicates that we have shown to exhibit control and impose no animacy or sentience requirements on their arguments are compatible with idioms, with the idiomatic reading preserved (@cid1--@cid4).
 
-() Delo ne xotelo [ PRO dvigat'sja s me ̈rtvo ̆ı tocˇki ] 
+(@cid1) Delo ne xotelo [ PRO dvigat'sja s me ̈rtvo ̆ı tocˇki ] 
 business not wanted move from dead point
 \`Things wouldn't get moving.' (lit.: \`didn't want to move from the dead point')
 
-() Vcˇera u menja na dusˇe vnezapno kosˇki resˇili [ PRO zaskresti ] 
+(@cid2) Vcˇera u menja na dusˇe vnezapno kosˇki resˇili [ PRO zaskresti ] 
 yesterday at me on soul suddenly cats decided scratch.inf
 \`Yesterday, I suddenly started feeling really sad.'
 
-() Naprjazˇennoe molcˇanie zastavljalo atmosferu [ PRO sgusˇcˇat'sja vse ̈ sil'nee ].
+(@cid3) Naprjazˇennoe molcˇanie zastavljalo atmosferu [ PRO sgusˇcˇat'sja vse ̈ sil'nee ].
 tense silence was making atmosphere solidify all stronger 
 \`The heavy silence was making people in the room feel more and more uneasy'.
 
-()
+(@cid4) Ot každogo šoroxa serdce bylo gotovo ujti v pjatki.
+from every rustle heart was ready go in heels
+\`Every rustle was making one's heart drop.' (lit.: \`making one's heart go into one's heels.')
 
-The acceptability of idioms with these control predicates does not distinguish them from the verbs *pomogat'* \`help' and *mesˇat'* \`hinder', which Burukina (2021) argues to occasionally require an ECM structure ().
+The acceptability of idioms with these control predicates does not distinguish them from the verbs *pomogat'* \`help' and *mesˇat'* \`hinder', which Burukina (2021) argues to occasionally require an ECM structure (@ecmid1--@ecmid2).
 
-() Nikakie utesˇenija ne mesˇali slezam [ PRO lit'sja v tri rucˇ'ja ] 
+(@ecmid1) Nikakie utesˇenija ne mesˇali slezam [ PRO lit'sja v tri rucˇ'ja ] 
 no comforting neg hinder tears.dat pour in three streams
 \`No comforting could prevent (somebody) from crying...'
 
-() pomogat'
+(@ecmid2) Izvinenija pomogli gnevu smenit'sja na milost'.
+apologies helped anger change to mercy
+\`Apologies helped her stop being angry.' lit.: \`helped anger be superceded by mercy')
 
-There are, nevertheless, control verbs that do not preserve idiomatic readings ().
+There are, nevertheless, control verbs that do not preserve idiomatic readings (@cid5).
 
-() * Menedzˇer ubedil delo [ PRO sdvinut'sja s me ̈rtvo ̆ı tocˇki ] 
+(@cid5) * Menedzˇer ubedil delo [ PRO sdvinut'sja s me ̈rtvo ̆ı tocˇki ] 
 manager convinced business move from dead point
 Expected: (\`The manager convinced things to get moving.')
 
@@ -182,11 +199,11 @@ To capture the data above showing full compatibility of some control verbs with 
 
 >[T]he only requirement on idioms is that a chunk of an idiom not receive an interpretation that is inconsistent with its idiomatic interpretation. Once this constraint is satisfied, idiom chunks can participate in pronominal anaphora and control in addition to movement.* [@Bruening:2015]
 
-The subjects of the idiomatic expressions in (--) are all nonsentient NPs *delo* \`business', *atmosfera* \`atmosphere' and *sle ̈zy ̄* \`tears'. They are nonsentient both in position 1 in the matrix clause, because the control predicates *resˇit'* \`decide', *zastavit'* \`force', *gotov* \`ready', and *xotet'* \`want' in a subset of contexts do not impose a sentience requirement on their nominal argument, and in the corresponding idioms. Position 2 is occupied by PRO in the infinitival clause. The constraint is not violated, and the idiomatic interpretations obtain. The same constraint rules out idiomatic interpretations with other control verbs such as *ubedit'* \`convince' (), which do impose a particular interpretation on their nominal argument: *ubedit'* \`convince' requires an NP (position 1) capable of being persuaded by arguments. Because that interpretation is inconsistent with the interpretation of the inanimate nonsentient delo \`business' in the idiom, the idiomatic reading is unavailable in ().
+The subjects of the idiomatic expressions in (--) are all nonsentient NPs *delo* \`business', *atmosfera* \`atmosphere' and *sle ̈zy ̄* \`tears'. They are nonsentient both in position 1 in the matrix clause, because the control predicates *resˇit'* \`decide', *zastavit'* \`force', *gotov* \`ready', and *xotet'* \`want' in a subset of contexts do not impose a sentience requirement on their nominal argument, and in the corresponding idioms. Position 2 is occupied by PRO in the infinitival clause. The constraint is not violated, and the idiomatic interpretations obtain. The same constraint rules out idiomatic interpretations with other control verbs such as *ubedit'* \`convince' (), which do impose a particular interpretation on their nominal argument: *ubedit'* \`convince' requires an NP (position 1) capable of being persuaded by arguments. Because that interpretation is inconsistent with the interpretation of the inanimate nonsentient delo \`business' in the idiom, the idiomatic reading is unavailable in (@cid6).
 
-() \*Menedzˇer ubedil delo [ PRO sdvinut'sja s me ̈rtvo ̆ı tocˇki ] 
+(@cid6) \*Menedzˇer ubedil delo [ PRO sdvinut'sja s me ̈rtvo ̆ı tocˇki ] 
 manager convinced business move from dead point
-Expected: (\`The manager convinced things to get moving.')
+Expected: \`The manager convinced things to get moving.'
 
 As regards the difference between *xotet'* \`want', *zastavit'* \`force', *resˇit'* and *gotov* \`ready' on the one hand and *ubedit'* \`convince' and its ilk on the other, we propose that, even though they are syntactically identical control predicates, the observed differences come from their lexical semantics/encyclopaedic knowledge. What sets control predicates apart from raising and ECM ones, then, is the requirement that they syntactically introduce a nominal argument in the sense of @Kratzer:1996 and @Pylkka ̈nen:2008, while the particular and sometimes highly specific theta-roles are handled by the meaning component, contra @Collins:2021.
 
